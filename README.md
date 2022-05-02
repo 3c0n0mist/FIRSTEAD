@@ -43,4 +43,18 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 
 ### 5. Resources
 
+#### Videos
+1. [Introduction to EEG](https://www.youtube.com/watch?fbclid=IwAR2JNrSRODGoz3uxln5Rlq5jai7g6lEXjYNqSpsdEryqPtOXjviWsBctqQ4&v=XMizSSOejg0&feature=youtu.be)
+
+#### Readings
+1. [EEG based emotion classification](https://www.frontiersin.org/articles/10.3389/fnsys.2020.00043/full)
+2. [Recognition of consumer preferences using EEG](https://www.frontiersin.org/articles/10.3389/fnhum.2020.604639/full?fbclid=IwAR3EqkdBT7gsSLKSSrsvBzE71N8tpAFPLbu36EqSfDX_Nbr9nWq1YajRyuE)
+3. [Analyzing Fear Using a Single-Sensor EEG Device](https://link.springer.com/chapter/10.1007/978-3-319-49616-0_8?fbclid=IwAR2bGLR9zEdBcK7PrsSA4ABnpkq5rZ80l9cE_nVnY1PRNQKuSVq_4lpwtjM)
+4. [Emotion classification using EEG signals based on tunable-Q wavelet transform](https://www.researchgate.net/publication/329396567_Emotion_classification_using_EEG_signals_based_on_tunable-Q_wavelet_transform)
+
+## DATA
+1. [Publicly available EEG data](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
+
+## Analysis
+1. [EDA done on EEG](https://www.kaggle.com/code/ruslankl/eeg-data-analysis/notebook?fbclid=IwAR0grq6Wau_Pp5ZRiCMnyTgUoi2dh5V0sBOPC1ZQ9FYx6-vQ1Woi1bpLSRM)
 
