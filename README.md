@@ -54,6 +54,7 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 
 #### DATA
 1. [Publicly available EEG data](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
+2. [Open EEG Datasets provided by meagmohit](https://github.com/meagmohit/EEG-Datasets)
 
 #### Analysis
 1. [EDA done on EEG](https://www.kaggle.com/code/ruslankl/eeg-data-analysis/notebook?fbclid=IwAR0grq6Wau_Pp5ZRiCMnyTgUoi2dh5V0sBOPC1ZQ9FYx6-vQ1Woi1bpLSRM)
