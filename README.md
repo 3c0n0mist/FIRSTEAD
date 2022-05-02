@@ -52,9 +52,9 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 3. [Analyzing Fear Using a Single-Sensor EEG Device](https://link.springer.com/chapter/10.1007/978-3-319-49616-0_8?fbclid=IwAR2bGLR9zEdBcK7PrsSA4ABnpkq5rZ80l9cE_nVnY1PRNQKuSVq_4lpwtjM)
 4. [Emotion classification using EEG signals based on tunable-Q wavelet transform](https://www.researchgate.net/publication/329396567_Emotion_classification_using_EEG_signals_based_on_tunable-Q_wavelet_transform)
 
-## DATA
+#### DATA
 1. [Publicly available EEG data](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 
-## Analysis
+#### Analysis
 1. [EDA done on EEG](https://www.kaggle.com/code/ruslankl/eeg-data-analysis/notebook?fbclid=IwAR0grq6Wau_Pp5ZRiCMnyTgUoi2dh5V0sBOPC1ZQ9FYx6-vQ1Woi1bpLSRM)
 
