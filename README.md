@@ -51,6 +51,7 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 2. [Recognition of consumer preferences using EEG](https://www.frontiersin.org/articles/10.3389/fnhum.2020.604639/full?fbclid=IwAR3EqkdBT7gsSLKSSrsvBzE71N8tpAFPLbu36EqSfDX_Nbr9nWq1YajRyuE)
 3. [Analyzing Fear Using a Single-Sensor EEG Device](https://link.springer.com/chapter/10.1007/978-3-319-49616-0_8?fbclid=IwAR2bGLR9zEdBcK7PrsSA4ABnpkq5rZ80l9cE_nVnY1PRNQKuSVq_4lpwtjM)
 4. [Emotion classification using EEG signals based on tunable-Q wavelet transform](https://www.researchgate.net/publication/329396567_Emotion_classification_using_EEG_signals_based_on_tunable-Q_wavelet_transform)
+5. [Deep Learning-based EEG Analysis: A Systematic Review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c)
 
 #### DATA
 1. [Publicly available EEG data](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
