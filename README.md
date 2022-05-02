@@ -8,7 +8,7 @@
 
 ### 1. Abstract
 
-Working or Travelling in the backcountry carries inherent risk. In British Columbia (BC) there are 1900 incidents per year, out of which 2100 people have been rescued by 3000 volunteers in 79 SAR (Search and Rescue Groups). The only mode of communication is a Satellite Emergency Messaging Device (SEND).these devices combine the functions of a GPS with a commercial satellite phone in text only (SMS) mode. They are not able to make voice calls, but they can send text messages through various gateways to email, mobile phones and to social media.
+Working or Travelling in the backcountry carries inherent risk. In British Columbia (BC) there are 1900 incidents per year, out of which 2100 people have been rescued by 3000 volunteers in 79 SAR (Search and Rescue Groups) [Dwight Yochim]. The only mode of communication is a Satellite Emergency Messaging Device (SEND).these devices combine the functions of a GPS with a commercial satellite phone in text only (SMS) mode. They are not able to make voice calls, but they can send text messages through various gateways to email, mobile phones and to social media.
  
 Triggering a SEND device means hitting the “SOS” or “911” button intended to issue an emergency alert call for help. When a SEND device is triggered, the following sequence of events occur:
 
@@ -18,7 +18,7 @@ Triggering a SEND device means hitting the “SOS” or “911” button intende
 - The ECC activates the nearest BC ground search and rescue team.
 - The team mobilises with resources depending on the location and severity of the incident.
 
-In the 2021-22 winter season 35 people died in the US and the average annual deaths related to winter activity is 22.8 in BC. This number is likely to climb as it is getting harder to anticipate hazards given climate change and rising uncertainties related to snowpack. Assuming we have the data, we believe it would be beneficial if we can predict real time health conditions in case of an emergency based on a pattern extracted from the past. Having a prediction will allow SAR groups to mobilise resources accordingly.
+In the 2021-22 winter season 35 people died in the US and the average annual deaths related to winter activity is 22.8 [BC Coroners Service] in BC. This number is likely to climb as it is getting harder to anticipate hazards given climate change and rising uncertainties related to snowpack. Assuming we have the data, we believe it would be beneficial if we can predict real time health conditions in case of an emergency based on a pattern extracted from the past. Having a prediction will allow SAR groups to mobilise resources accordingly.
 
 ### 2. Relevance
 
