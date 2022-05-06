@@ -53,13 +53,12 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 4. [Emotion classification using EEG signals based on tunable-Q wavelet transform](https://www.researchgate.net/publication/329396567_Emotion_classification_using_EEG_signals_based_on_tunable-Q_wavelet_transform)
 5. [Deep Learning-based EEG Analysis: A Systematic Review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c)
 6. [A Wearable In-Ear EEG Device for Emotion Monitoring](https://www.mdpi.com/1424-8220/19/18/4014/htm)
-
+7. [Machine learning from wristband sensor data for wearable, noninvasive seizure forecasting](https://onlinelibrary.wiley.com/doi/10.1111/epi.16719)
 #### DATA
 1. [Publicly available EEG data](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 2. [Open EEG Datasets provided by meagmohit](https://github.com/meagmohit/EEG-Datasets)
 3. [SEED Dataset provided from BCMI Labs](https://bcmi.sjtu.edu.cn/home/seed/index.html)
-4. [Machine learning from wristband sensor data for wearable, noninvasive seizure forecasting](https://onlinelibrary.wiley.com/doi/10.1111/epi.16719)
-
+4. [Pain EEG Data](https://osf.io/zys7t/)
 #### Analysis
 1. [EDA done on EEG](https://www.kaggle.com/code/ruslankl/eeg-data-analysis/notebook?fbclid=IwAR0grq6Wau_Pp5ZRiCMnyTgUoi2dh5V0sBOPC1ZQ9FYx6-vQ1Woi1bpLSRM)
 
