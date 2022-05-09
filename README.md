@@ -62,3 +62,7 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 #### Analysis
 1. [EDA done on EEG](https://www.kaggle.com/code/ruslankl/eeg-data-analysis/notebook?fbclid=IwAR0grq6Wau_Pp5ZRiCMnyTgUoi2dh5V0sBOPC1ZQ9FYx6-vQ1Woi1bpLSRM)
 
+#### Github
+1. [NN for emotional classification](https://github.com/JJBalisan/Using-a-Neural-Network-to-Classify-EEG-Brain-Signals)
+2. [EEG pain detection](https://github.com/BIAPT/eeg-pain-detection)
+
