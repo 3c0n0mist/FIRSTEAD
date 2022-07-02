@@ -66,3 +66,9 @@ sparse autoencoder. Frontiers in Systems Neuroscience, 14.
 1. [NN for emotional classification](https://github.com/JJBalisan/Using-a-Neural-Network-to-Classify-EEG-Brain-Signals)
 2. [EEG pain detection](https://github.com/BIAPT/eeg-pain-detection)
 
+# Conclusion of the LSI program 2 July 2022
+
+This project has now been completed all the code files are in src, with one sample file from the grasp and lift dataset included in the directory of the same name.
+
+before running, remember to change the path variables as per your system.
+
