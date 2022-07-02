@@ -72,3 +72,5 @@ This project has now been completed all the code files are in src, with one samp
 
 before running, remember to change the path variables as per your system.
 
+Refer [here](https://blogs.ubc.ca/sumitm/) for the project blog.
+
